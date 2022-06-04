@@ -75,7 +75,7 @@ body::-webkit-scrollbar {
 }
 body{
   scrollbar-width: thin;
-  scrollbar-color: #AB5429 #F3F0EA;
+  scrollbar-color: #000 #F3F0EA;
 }
 body:-webkit-scrollbar-track {
   background: #F3F0EA;
